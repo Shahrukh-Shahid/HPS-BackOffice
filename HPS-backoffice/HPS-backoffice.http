@@ -1,0 +1,6 @@
+@HPS_backoffice_HostAddress = http://localhost:5066
+
+GET {{HPS_backoffice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

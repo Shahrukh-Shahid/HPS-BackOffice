@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0UyyNMy5XkotHzO1AvtKjZauLXPiF+UkSSTWa1F2leE=",
+  "Source": "HPS-backoffice",
+  "BasePath": "_content/HPS-backoffice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
